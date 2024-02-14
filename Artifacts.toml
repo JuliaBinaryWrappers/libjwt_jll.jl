@@ -1,0 +1,143 @@
+[[libjwt]]
+arch = "aarch64"
+git-tree-sha1 = "b9ece4e5d9d22cb7d5ac2a3daf4a3733968e5732"
+os = "macos"
+
+    [[libjwt.download]]
+    sha256 = "4779f3d93a2eecb06946fc9341ad6aabe4d44daf9e9c1b81eb5af53ff23139ca"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.aarch64-apple-darwin.tar.gz"
+[[libjwt]]
+arch = "aarch64"
+git-tree-sha1 = "71a26b7e25045cad6d3175acf1830457d28a25a4"
+libc = "glibc"
+os = "linux"
+
+    [[libjwt.download]]
+    sha256 = "f7b6e3a80d8b130343f7fe52735703b8fe638240f1daaea46a97863847861e4f"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.aarch64-linux-gnu.tar.gz"
+[[libjwt]]
+arch = "aarch64"
+git-tree-sha1 = "660b9f68fd115b292014febed868b531da67e4fd"
+libc = "musl"
+os = "linux"
+
+    [[libjwt.download]]
+    sha256 = "b6da9cda50f798617723c918d397be6a069e9c58e9fdabdf3e9d6c06429f90b1"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.aarch64-linux-musl.tar.gz"
+[[libjwt]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c4788d637818f1a3c05e169bc55b2d2f9d34aca2"
+libc = "glibc"
+os = "linux"
+
+    [[libjwt.download]]
+    sha256 = "b4a96f07a49b456b77a94b8b689b9a6778e5ca8aa85438ba14b3ae7edf685e64"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.armv6l-linux-gnueabihf.tar.gz"
+[[libjwt]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "eefe29cd9261b354f6f5918cfc280c835f802d7d"
+libc = "musl"
+os = "linux"
+
+    [[libjwt.download]]
+    sha256 = "ee7b15e68c556dc616bb4a34935c76536ec35de00146d2c71cf2cb77b3c42e58"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.armv6l-linux-musleabihf.tar.gz"
+[[libjwt]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "03175f5f2e7a86acd1a515a8a78d050fe768a2db"
+libc = "glibc"
+os = "linux"
+
+    [[libjwt.download]]
+    sha256 = "1c44d91254d7d2b96b7def94d6697fd65ddb02aaf0db68242f57336933151a40"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.armv7l-linux-gnueabihf.tar.gz"
+[[libjwt]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ea8383ff3dad1532a300c40d869ea33c1bfb7f50"
+libc = "musl"
+os = "linux"
+
+    [[libjwt.download]]
+    sha256 = "b724240aae13ea0bfcdcf59bdb87311473bdbdf4fc944bc519c1c692d5079e46"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.armv7l-linux-musleabihf.tar.gz"
+[[libjwt]]
+arch = "i686"
+git-tree-sha1 = "6919038c8d39e6e456f755b59267b2ee1eb1c803"
+libc = "glibc"
+os = "linux"
+
+    [[libjwt.download]]
+    sha256 = "243f9592fef259659a35be5af51706394584a76ec9fa2e16a1cc063583af5a8f"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.i686-linux-gnu.tar.gz"
+[[libjwt]]
+arch = "i686"
+git-tree-sha1 = "9fc8df82bfcf3c905924ec6e63bca8e6ab107c0a"
+libc = "musl"
+os = "linux"
+
+    [[libjwt.download]]
+    sha256 = "bf71b15f20447421628bf46c6a22b9a40d146a338b9fc3bfdaebe866517d44dc"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.i686-linux-musl.tar.gz"
+[[libjwt]]
+arch = "i686"
+git-tree-sha1 = "bac3609196bdb84bd570658228ea1556c2a0be22"
+os = "windows"
+
+    [[libjwt.download]]
+    sha256 = "b00f79137fdf2b4a7ce17bdeac8c6c8f6fff4e86dc8e1b9320403f6fd4008d4b"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.i686-w64-mingw32.tar.gz"
+[[libjwt]]
+arch = "powerpc64le"
+git-tree-sha1 = "56bd420dd4a3ab06ee457cca555e8a94d0bb4245"
+libc = "glibc"
+os = "linux"
+
+    [[libjwt.download]]
+    sha256 = "efd464e620cb7a08eb5a07dbe143aaeedc2d6f494f12a2ee1a01e4af10ab469f"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.powerpc64le-linux-gnu.tar.gz"
+[[libjwt]]
+arch = "x86_64"
+git-tree-sha1 = "70513c9eef384ca7d418ce79e3ed2da832bc83fe"
+os = "macos"
+
+    [[libjwt.download]]
+    sha256 = "41994480cf1bebdf8f2c8e5f5dc970b0518067b78d5af526d112f2d12983becb"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.x86_64-apple-darwin.tar.gz"
+[[libjwt]]
+arch = "x86_64"
+git-tree-sha1 = "c527afae0b27ee7b1aa7a577c8e807a1a9ab594a"
+libc = "glibc"
+os = "linux"
+
+    [[libjwt.download]]
+    sha256 = "851a53db39998ada10592fe03aca747b260e9763e9dbf704e3beb98a9fdefd86"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.x86_64-linux-gnu.tar.gz"
+[[libjwt]]
+arch = "x86_64"
+git-tree-sha1 = "aa1217df0aa80634878a3b6895718d572e87ce2c"
+libc = "musl"
+os = "linux"
+
+    [[libjwt.download]]
+    sha256 = "85c07dc07747dda4a26e926ec3c2c4119a9a39900c7d2d66fdd4c6d4e48d9149"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.x86_64-linux-musl.tar.gz"
+[[libjwt]]
+arch = "x86_64"
+git-tree-sha1 = "8b058317d922d6249c5950fcdacd602413da25a1"
+os = "freebsd"
+
+    [[libjwt.download]]
+    sha256 = "a4497ea8c53be17334cb4ca8aaa3fa6ddbef7ea35195a5ddcc1d6f28ebac2cd0"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.x86_64-unknown-freebsd.tar.gz"
+[[libjwt]]
+arch = "x86_64"
+git-tree-sha1 = "1069a894ab875cd1898f48736624fb7f933b3caa"
+os = "windows"
+
+    [[libjwt.download]]
+    sha256 = "abfae4aeefec4ad64a3109dea9af33cc6d26e36e9590dd5715cec28d04d4f5d9"
+    url = "https://github.com/JuliaBinaryWrappers/libjwt_jll.jl/releases/download/libjwt-v1.15.3+0/libjwt.v1.15.3.x86_64-w64-mingw32.tar.gz"
